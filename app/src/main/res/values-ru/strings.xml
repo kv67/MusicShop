@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Музыкальный магазин</string>
+    <string name="your_name">Ваше имя</string>
+    <string name="flowers">Цветы</string>
+    <string name="select_item">Выберите товар</string>
+    <string name="instruments">Инструменты</string>
+    <string name="instrument">Инструмент</string>
+    <string name="order_price">Цена заказа</string>
+    <string name="quantity">Количество</string>
+    <string name="start_quantity">0</string>
+    <string name="add_to_cart">ДОБАВИТЬ В КОРЗИНУ</string>
+    <string name="button_minus">-</string>
+    <string name="button_plus">+</string>
+    <string name="label_sale">Скидка - 30%</string>
+    <string name="guitar">Гитара</string>
+    <string name="drums">Ударные</string>
+    <string name="keyboard">Клавишные</string>
+    <string name="currency">Руб</string>
+    <string name="your_order">Ваш заказ</string>
+    <string name="customer_name">Имя заказчика: %1$s</string>
+    <string name="goods_name">Название товара: %1$s</string>
+    <string name="order_quantity">Количество: %1$d</string>
+    <string name="order_price_order">Цена: %1$.2f %2$s</string>
+    <string name="send_order">ОТПРАВИТЬ ЗАКАЗ</string>
+    <string name="order_subject">Заказ из музыкального магазина</string>
+</resources>
