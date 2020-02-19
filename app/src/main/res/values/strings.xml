@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Music Shop</string>
+    <string name="your_name">Your name</string>
+    <string name="flowers">Flowers</string>
+    <string name="select_item">Select item</string>
+    <string name="instruments">Instruments</string>
+    <string name="instrument">Instrument</string>
+    <string name="order_price">Order Price</string>
+    <string name="quantity">Quantity</string>
+    <string name="start_quantity">0</string>
+    <string name="add_to_cart">ADD TO CART</string>
+    <string name="button_minus">-</string>
+    <string name="button_plus">+</string>
+    <string name="label_sale">Sale - 30%</string>
+    <string name="guitar">Guitar</string>
+    <string name="drums">Drums</string>
+    <string name="keyboard">Keyboard</string>
+    <string name="currency">$</string>
+    <string name="your_order">Your Order</string>
+    <string name="customer_name">Customer name: %1$s</string>
+    <string name="goods_name">Goods name: %1$s</string>
+    <string name="order_quantity">Quantity: %1$d</string>
+    <string name="order_price_order">Price: %1$.2f %2$s</string>
+    <string name="send_order">SEND ORDER</string>
+    <string name="order_subject">Order from Music shop</string>
+</resources>
